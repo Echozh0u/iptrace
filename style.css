@@ -1,0 +1,17 @@
+body {background-color:black;}
+p{font-family:"像素.otf",serif;
+font-size:150%;}
+
+body {
+    margin: 0;
+    padding: 2;
+    font-family: "像素.otf";
+    font-weight: 200;
+    line-height: 2.0rem;
+    color:#00FF00;
+  }
+  h2{
+  color:whitesmoke;  
+  }
+  
+ 
